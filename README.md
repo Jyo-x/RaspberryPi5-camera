@@ -1,1 +1,0 @@
-# RaspberryPi5-USBcamera
